@@ -75,6 +75,7 @@ If you change the first instruction from `nop +0` to `jmp +0`, it would create a
 
 However, if you change the second-to-last instruction (from `jmp -4` to `nop -4`), the program terminates! The instructions are visited in this order:
 
+```
 nop +0  | 1
 acc +1  | 2
 jmp +4  | 3
@@ -84,6 +85,7 @@ acc -99 |
 acc +1  | 4
 nop -4  | 5
 acc +6  | 6
+```
 
 After the last instruction (`acc +6`), the program terminates by attempting to run the instruction below the last instruction in the file. With this change, after the program terminates, the accumulator contains the value `8` (`acc +1`, `acc +1`, `acc +6`).
 
