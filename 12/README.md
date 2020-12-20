@@ -68,3 +68,4 @@ After these operations, the ship's Manhattan distance from its starting position
 
 Figure out where the navigation instructions actually lead. **What is the Manhattan distance between that location and the ship's starting position?**
 
+Your puzzle answer was `13340`.
