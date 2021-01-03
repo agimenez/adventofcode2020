@@ -42,3 +42,7 @@ Here are a few more examples:
 Given your starting numbers, **what will be the 2020th number spoken?**
 
 Your puzzle input is **```0,14,6,20,1,4```**.
+
+Your puzzle answer was `257`.
+
+
