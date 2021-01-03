@@ -45,9 +45,9 @@ Your puzzle input is **```0,14,6,20,1,4```**.
 
 Your puzzle answer was `257`.
 
-### Part Two ---
+### Part Two
 
-Impressed, the Elves issue you a challenge: determine the 30000000th number spoken. For example, given the same starting numbers as above:
+Impressed, the Elves issue you a challenge: determine the `30000000`th number spoken. For example, given the same starting numbers as above:
 
  - Given `0,3,6`, the `30000000`th number spoken is `175594`.
  - Given `1,3,2`, the `30000000`th number spoken is `2578`.
