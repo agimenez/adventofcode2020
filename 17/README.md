@@ -149,3 +149,5 @@ z=2
 After the full six-cycle boot process completes, **`112`** cubes are left in the **active** state.
 
 Starting with your given initial configuration, simulate six cycles. **How many cubes are left in the active state after the sixth cycle?**
+
+Your puzzle answer was `2160`.
