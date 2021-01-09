@@ -69,4 +69,5 @@ Here are the other examples from above:
 
 **What do you get if you add up the results of evaluating the homework problems using these new rules?**
 
+Your puzzle answer was `171259538712010`.
 
