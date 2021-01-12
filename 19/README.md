@@ -149,3 +149,4 @@ However, after updating rules `8` and `11`, a total of **`12`** messages match:
 
 **After updating rules `8` and `11`, how many messages completely match rule `0`?**
 
+Your puzzle answer was `263`.
